@@ -1,0 +1,19 @@
+C:\macunan\gVimPortable\3.c
+C:\Users\macunan\30-6-2017\30-6-2017.txt
+C:\macunan\Archvios de escalacion carol\Archvios de escalacion carol\comunlinuxcommands.txt
+C:\macunan\Archvios de escalacion carol\Archvios de escalacion carol\transfertoespecificteam.txt
+C:\Users\macunan\Documents\AutoHotkey.ahk
+C:\macunan\Archvios de escalacion carol\Archvios de escalacion carol\templatederouteo.txt
+C:\macunan\gVimPortable\App\vim\vim80\doc\solarized.txt
+C:\Users\macunan\29-6-2017\29-6-2017.txt
+C:\Users\macunan\29-6-2017\3.c
+C:\Users\macunan\29-6-2017\2.php
+C:\Users\macunan\29-6-2017\3.html
+C:\macunan\gVimPortable\App\DefaultData\settings\_vimrc
+C:\macunan\gVimPortable\2.c
+C:\macunan\gVimPortable\Data\settings\_vimrc
+C:\macunan\gVimPortable\App\vim\vim80\autoload\pathogen.vim
+C:\macunan\gVimPortable\1.c!
+C:\macunan\gVimPortable\App\vim\vim80\doc\snipMate.txt
+C:\macunan\gVimPortable\1.php
+C:\macunan\gVimPortable\1.c

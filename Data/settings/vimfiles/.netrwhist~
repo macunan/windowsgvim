@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='C:\Users\macunan\29-6-2017'
+let g:netrw_dirhist_2='C:/Users/macunan'
+let g:netrw_dirhist_3='C:/Users'
+let g:netrw_dirhist_4='C:/Users/macunan'
+let g:netrw_dirhist_5='C:\Users\macunan\29-6-2017'
+let g:netrw_dirhist_6='C:\macunan\Archvios de escalacion carol\Archvios de escalacion carol'
+let g:netrw_dirhist_7='C:/macunan/Archvios de escalacion carol/Archvios de escalacion carol'
